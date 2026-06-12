@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // ADD YOUR API KEY
   
   const API_KEY =
-    "071506e78fae8f5447d296c42fb6edef";
+    "948279e0ee5a7def563e8cf6e70c3f26";
 
   // BUTTON CLICK
 
